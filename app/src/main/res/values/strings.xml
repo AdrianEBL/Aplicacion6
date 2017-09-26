@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TimerNotification</string>
+    <string name="lblstart_name">Elije una opcion</string>
+    <string name="rdbtn1_name">5 seg</string>
+    <string name="rdbtn2_name">15 seg</string>
+    <string name="rdbtn3_name">30 seg</string>
+    <string name="rdbtn4_name">60 seg</string>
+    <string name="btn1_name">Ejecutar</string>
+</resources>
